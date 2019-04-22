@@ -9,8 +9,4 @@ This theme is inspired by [Arc theme](https://github.com/horst3180/arc-theme) wi
 ## How To Use
 
 Just download the Arcy.theme file anywhere on your PC and double click on it.
-To download this theme, open the page in desktop view and click the green colne or download button.
-
-### More
-
-Check out [Blackness](https://github.com/2kabhishek/Blackness) if you prefer completely black colours.
+To download this theme, open this page in desktop view and click the green colne or download button.
