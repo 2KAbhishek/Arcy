@@ -8,9 +8,8 @@ This theme is inspired by [Arc theme](https://github.com/horst3180/arc-theme) wi
 
 ## How To Use
 
-Just download the Arcy.theme file anywhere on your PC and double click on it.
-To download this theme, open this page in desktop view and click the green colne or download button.
+Just clone the repo and double click on `Arcy.theme`.
 
 ### More
 
-I have also added a Windows 7 variant, `Arcy_7.theme` which looks somewhat similar to the Windows 10 one.
+I have also added a Windows 7 variant, `Arcy_7.theme` which looks somewhat similar.
