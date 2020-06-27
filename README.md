@@ -1,5 +1,3 @@
-<div align="center">
-
 # Arcy
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/Arcy?style=plastic&color=0f0&label=Size)
@@ -13,7 +11,6 @@
 Arcy - Arc inspired theme for Windows.
 ![Arcy](https://i.imgur.com/C4aLanr.png)
 
-</div>
 
 
 ## How To Use
@@ -21,7 +18,6 @@ Arcy - Arc inspired theme for Windows.
 Just clone the repo and double click on `Arcy.theme`.
 I have also added a Windows 7 variant, `Arcy_7.theme` which looks somewhat similar.
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
