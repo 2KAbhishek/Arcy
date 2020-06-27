@@ -7,9 +7,9 @@
 ![Watchers](https://img.shields.io/github/watchers/2kabhishek/Arcy?style=plastic&color=ff5500&label=Watchers)
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Arcy?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Arcy?style=plastic&color=555&label=License)
+![Arcy](https://i.imgur.com/C4aLanr.png)
 
 Arcy - Arc inspired theme for Windows.
-![Arcy](https://i.imgur.com/C4aLanr.png)
 
 
 
