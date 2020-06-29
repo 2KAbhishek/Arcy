@@ -12,15 +12,12 @@
 
 Arcy - Arc inspired theme for Windows.
 
-
-
 ## How To Use
 
 Just clone the repo and double click on `Arcy.theme`.
-I have also added a Windows 7 variant, `Arcy_7.theme` which looks somewhat similar.
 
+I have also added a Windows 7 variant, `Arcy_7.theme` which looks somewhat similar.
 
 ### More Info
 
 This theme is inspired by [Arc theme](https://github.com/horst3180/arc-theme) with some tweaks.
-
